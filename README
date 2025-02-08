@@ -1,0 +1,11 @@
+Key Highlights of the Project
+Achieved the following accuracies during manual optimization and brute force training:
+  Training Accuracy: 91%
+  Validation Accuracy: 92%
+  Test Accuracy: 93%
+
+Potential for improvement through advanced optimization techniques such as hyperparameter tuning (e.g., Optuna, Keras Tuner).
+
+This notebook is fully runnable without additional configuration, as it downloads all dependencies from the initial cells.
+
+Includes integration with Kaggle for easy dataset handling and experimentation.
